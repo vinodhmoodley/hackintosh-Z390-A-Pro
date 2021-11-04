@@ -1,6 +1,5 @@
-# hackintosh-Z390-A-Pro
 
-# My MSI Z390-A Pro 9900K Hackintosh build
+## My MSI Z390-A Pro 9900K Hackintosh build
 
 I used macOS Monterey 12.01 with Opencore 0.7.4 to install macOS. The initial EFI folder was created using OC Gen-X. This was quicker than using the Dortania guide. I added the relevant SSDT files for my Coffee Lake system from the Dortania website and added it to config.plist using Propertree. By default, the front USB ports only support USB 3.0. I used Hackintool for port mapping and to generate a USBPorts.kext that I also added to config.plist using Propertree. 
 
