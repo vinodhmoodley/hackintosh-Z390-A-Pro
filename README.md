@@ -44,6 +44,14 @@ Everything currently works. Airdrop, Ask Siri, Continuity, the Mac App Store all
 
 ![Hackintool USB ports after mapping](https://user-images.githubusercontent.com/22031708/140337930-28ecd0e4-2c72-420a-8793-5ac165c92ba0.png)
 
+### EFI Folder
+<img width="800" alt="EFI folder" src="https://user-images.githubusercontent.com/22031708/140338065-2923bf9a-68c1-4bb4-a445-982accaf7886.png">
+
+
+### System Overview
+![System overview](https://user-images.githubusercontent.com/22031708/140338137-089e484b-f694-47aa-b8cf-6f951ccc2fbb.png)
+
+
 
 
 
