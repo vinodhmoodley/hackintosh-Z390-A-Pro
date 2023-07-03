@@ -37,7 +37,7 @@ Cooler: Corsair 115i
 
 ### Status
 
-Everything currently works. Airdrop, Ask Siri, Continuity, the Mac App Store all work perefctly.
+Everything currently works. Airdrop, Ask Siri, Continuity, and the Mac App Store all work perfectly.
 
 ### Ports
 ![Z390-A Pro Port Layout](https://user-images.githubusercontent.com/22031708/140337881-d46ef9c4-294e-40e9-943f-65025ec8415d.png)
