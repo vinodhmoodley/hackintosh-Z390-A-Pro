@@ -3,7 +3,7 @@
 
 I used macOS Monterey 12.01 with Opencore 0.7.4 to install macOS. The initial EFI folder was created using OC Gen-X. This was quicker than using the Dortania guide. I added the relevant SSDT files for my Coffee Lake system from the Dortania website and added it to config.plist using Propertree. By default, the front USB ports only support USB 3.0. I used Hackintool for port mapping and to generate a USBPorts.kext that I also added to config.plist using Propertree. 
 
-EFI has been updated to Opencore 0.9.5. It now Ventura and Sonoma compatible.
+EFI has been updated to Opencore 0.9.5. It is now Ventura and Sonoma compatible.
 
 ### Opencore:
 https://github.com/acidanthera/OpenCorePkg
